@@ -4,6 +4,9 @@
     { "id": 2, "email": "guilherme", "password": "guilherme" },
     { "id": 3, "email": "giovanna", "password": "giovanna" },
     { "id": 4, "email": "gabrielly", "password": "gabrielly" },
-    { "id": 5, "email": "gustavo", "password": "gustavo" }
+    { "id": 5, "email": "gustavo", "password": "gustavo" },
+    { "id": 6, "email": "charles", "password": "charles" },
+    { "id": 7, "email": "rhuan", "password": "rhuan" },
+    { "id": 8, "email": "danilo", "password": "danilo" }
   ]
 }
